@@ -1,0 +1,3 @@
+ProdutoA;100.0
+ProdutoB;50.0
+ProdutoC;75.5

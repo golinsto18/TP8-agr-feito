@@ -1,0 +1,2 @@
+João;25;true
+Maria;30;false
